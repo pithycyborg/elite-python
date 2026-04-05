@@ -1,4 +1,4 @@
-**Elite Python Scripts**
+*Elite Python Scripts*
 
 Standalone Python tools and utilities. Zero dependencies. One-command execution.
 
