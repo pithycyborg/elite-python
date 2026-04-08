@@ -16,7 +16,7 @@ This project exists to show that you can build a visually impressive, physically
 - Binary image file formats (PPM + full PNG with DEFLATE)
 - Terminal-first UX with zero external dependencies
 
-Perfect companion to low-level systems projects (see my [CHIP-8 emulator](https://github.com/pithycyborg/chip8)).
+Perfect companion to low-level systems projects (see my [CHIP-8 emulator]([https://github.com/pithycyborg/chip8](https://github.com/pithycyborg/elite-python/tree/main/chip8-emulator))).
 
 ## Features
 
