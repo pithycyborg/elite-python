@@ -2,7 +2,7 @@
 
 Standalone Python tools and utilities. Zero dependencies. One-command execution.
 
-This repository collects high-quality Python scripts that run anywhere Python 3 exists — no pip installs, no virtual environments, no frameworks. Each script solves a real problem with minimal code and maximum clarity.
+This repository collects high-quality Python scripts that run anywhere Python 3 exists | no pip installs, no virtual environments, no frameworks. Each script solves a real problem with minimal code and maximum clarity.
 
 ## Featured
 
